@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TemplateFieldData>
+	<AccountName>ACME, Inc.</AccountName>
+	<Item>
+		<Name>Item A</Name>
+		<Category>Software</Category>
+    <Brand>Microsoft</Brand>
+	</Item>
+	<Item>
+		<Name>Item B</Name>
+		<Category>Service</Category>
+    <Brand>Microsoft</Brand>
+	</Item>
+	<Item>
+		<Name>Item C</Name>
+		<Category>Software</Category>
+    <Brand>Apple</Brand>
+	</Item>
+	<Item>
+		<Name>Item D</Name>
+		<Category>Hardware</Category>
+    <Brand>Intel</Brand>
+	</Item>
+	<Item>
+		<Name>Item E</Name>
+		<Category>Service</Category>
+    <Brand>Dell</Brand>
+	</Item>
+	<Item>
+		<Name>Item F</Name>
+		<Category>Software</Category>
+    <Brand>Norton</Brand>
+	</Item>
+	<Item>
+		<Name>Item G</Name>
+		<Category>Service</Category>
+    <Brand>Alienware</Brand>
+	</Item>
+	<Item>
+		<Name>Item H</Name>
+		<Category>Software</Category>
+    <Brand>Microsoft</Brand>
+	</Item>
+	<Item>
+		<Name>Item I</Name>
+		<Category>Hardware</Category>
+    <Brand>ASUS</Brand>
+	</Item>
+</TemplateFieldData>
